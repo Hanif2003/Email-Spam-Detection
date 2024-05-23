@@ -4,6 +4,10 @@ This project aims to develop a machine learning model to effectively detect spam
 
 # Features
 Data Preprocessing: Cleaning and preparing the email data for analysis.
+
 Feature Extraction: Extracting relevant features from the email text such as word frequencies, special characters, etc.
+
 Model Training: Implementing and training various machine learning algorithms to classify emails.
+
 Model Evaluation: Assessing the performance of the models using metrics like accuracy, precision, recall, and F1-score
+
