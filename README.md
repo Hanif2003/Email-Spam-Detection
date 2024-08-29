@@ -27,9 +27,3 @@ The primary goal of this project was to create a robust machine learning model t
 **Outcome and Impact:**  
 The Email Spam Detection system achieved high accuracy in classifying emails, effectively filtering out spam and reducing the risk of phishing attacks. By leveraging advanced data preprocessing, feature extraction techniques, and machine learning algorithms, this system provides a reliable solution to enhance email security and improve user experience.
 
-**Future Enhancements:**  
-Future improvements could include integrating advanced deep learning models, expanding the dataset to cover a broader range of spam types, and incorporating user feedback to continuously refine the model's performance.
-
----
-
-This pitch highlights the essential aspects of the project, demonstrating its value and effectiveness in solving a real-world problem while showcasing your technical expertise in machine learning and data processing.
